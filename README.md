@@ -2,7 +2,10 @@
 
 Welcome to my GitHub profile! I'm passionate about creating clean, user-friendly digital experiences and turning data into insights. I love building things that are **functional, beautiful**, and **data-driven**.
 
-![Pixel Cat Animation](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+
+<p >
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&width=435&lines=UI%2FUX+Designer+%F0%9F%96%8C%EF%B8%8F;Data+Analyst+%F0%9F%93%88"/>
+</p>
 
 ---
 
@@ -42,5 +45,7 @@ Welcome to my GitHub profile! I'm passionate about creating clean, user-friendly
 
 
 ---
+
+![Pixel Cat Animation](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 ### Let's build beautiful, smart things together!
